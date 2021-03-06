@@ -2,4 +2,4 @@
 
 ## ***Execícios em Python*** 
 * Livro Introdução à programação com python.
-* Livro Python Escreva seus primeiros programas
+* Livro Python Escreva seus primeiros programas.
